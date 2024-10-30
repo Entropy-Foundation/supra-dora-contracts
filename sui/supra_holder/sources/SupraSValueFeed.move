@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 
 #[allow(unused_field)]
-/// Auction:
+/// Action:
 /// Owner - The owner of the package can perform the `add_public_key` entry function.
 /// Free-node - The free-node can perform the `process_cluster` entry function.
 /// User - The user can use the `get_price`, `get_prices`, and `extract_price` public functions
